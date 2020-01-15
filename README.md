@@ -40,15 +40,15 @@ Tip: As you make updates on your website, be sure to _save_ frequently in Codean
 
 ## Customizing your website
 
-Start looking for code to change in your **index.html** file to customize and make it your own. All of the code is written within HTML tags contained in ```< >``` symbols. You’ll be changing code within the brackets. We will point out specifics tags for you to personalize with information about your cupcake shop. For example, ```<title>You’ll change code here.</title>``` Make sure to not delete any closing tags or classes! Hint: Codeanywhere's colors will change if your code is broken!
+Today, we are going to focus on changing the styling of our website with CSS.
+Start looking for code to change in your **styles.css** file to customize and make it your own. All of the code is written in CSS. You’ll be changing code within the style sheet to change your website. Within CSS, you can change colors, fonts, alignments, and all kinds of other things!  Be sure not to delete any of the sections! Hint: Codeanywhere's colors will change if your code is broken!
 
 ## Site Basics
 
-1.  Change the **title** of your site.
-2.  Change the **h1** tag of the website to the title of your website.
-3.  Add your own text about your website using **h2**, **h3**, and **p** tags. Get creative in telling your story!
-4.  Put images on the page. (Save your images in the **images** folder. You can search images on Google or Flickr.)
-    *  Hint: Images are stored between list tags (```<li>``` and ```</li>```) in the code. Find these tags and replace the content so that it points to your images.
+1.  Change the **background** of your site.
+2.  Change the **color** of the **h1** tag of the website.
+3.  Change the **background** of the header class.  Hint: A CSS selecting a class starts with a period (for example, you will look for ```.header``` for this section).
+4.  Change the **background** of the content and inner classes.  Hint: Look for the CSS selector ```.content .inner```.
 
 ## Creating a Contact Page
 
