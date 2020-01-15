@@ -1,6 +1,6 @@
 <img align="right" width="200" height="200" src="https://github.com/KansasCityWomeninTechnology/codingandcupcakes/blob/master/img/logo.png" alt="Coding and Cupcakes Logo">
 
-# Coding & Cupcakes Worksheet - HTML
+# Coding & Cupcakes Worksheet - CSS
 
 ## Overview
 
